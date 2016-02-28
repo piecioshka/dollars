@@ -1,4 +1,5 @@
 # dollars
 
-> Simple CSS3 dollars animation
+> CSS3 dollars $$$ animation.
 
+![](./dollars.gif)
