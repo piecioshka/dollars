@@ -2,6 +2,6 @@
 
 CSS3 dollars $$$ animation.
 
-## Demo
+## Preview 🎉
 
 ![](./dollars.gif)
